@@ -3,7 +3,6 @@
 #
 
 ## Demo
-
 https://youtu.be/Llr_UpnNSdY
 
 ## Architecture of Project:
@@ -21,7 +20,6 @@ https://youtu.be/Llr_UpnNSdY
 ## How to Use 
 
 First things first: you must properly set the following environment variable (/asset/app/.env):
-
 - APP_API_SITE  (The backend service URL) 
 
 **Attendance System Backend Service:**
